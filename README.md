@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Dongju Han, and I'm born in Seoul, South Korea. I immigrated to the United States after elementary school and has been living in Virginia since then. I am a Data Science major in University of Virginia. 
+My name is Dongju Han, and I'm born in Seoul, South Korea. I immigrated to the United States at 2016 and has been living in Virginia since then. I am a Data Science major in University of Virginia. 
 
 <!--
 **djhan0330/djhan0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
