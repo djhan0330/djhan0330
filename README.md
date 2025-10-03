@@ -16,7 +16,8 @@ My name is Dongju Han, and I am a third year Data Science major in University of
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ### 📫 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-dongjuhan%40uva.edu-red?logo=gmail&logoColor=white)](mailto:dpv8cf@virginia.edu)
+[![Email](https://img.shields.io/badge/Email-dpv8cf%40virginia.edu-red?logo=gmail&logoColor=white)](mailto:dpv8cf@virginia.edu)
+
 
 
 <!--
